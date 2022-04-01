@@ -76,14 +76,14 @@ Cyclops (1st Class);S2;First Class;5;6;3;3;;;4;;1 dégat à tous les autres;1 da
 Dagger;S2;SG S2;7;4;3;3;;;3;;Synergie avec Cloak $ Lutte contre [thug] $ Bonus [heroic];Synergy with Cloak $ Fights against [thug] $ Bonus [heroic]
 Dazzler;S2;SG S2;8;3;2;3;;;;;Gain de jetons [attack] et [heroic];Gains tokens [attack] et [heroic]
 Deadpool;S2;Deadpool;3;1;4;5;;;8;2;Résistance aux dégats $ Regagne de la vie $ Résiste aux vilans;Resists to damages $ Can heal $ Resists to villains
-Doctor Doom;S2;Fantastic Four;3;1;4;8;;;;;Gagne des jetons $ Utilise les 3 cartes précédentes;Gagne des jetons $ Utilise les 3 cartes précédentes
+Doctor Doom;S2;Fantastic Four;3;1;4;8;;;;;Gagne des jetons $ Utilise les 3 cartes précédentes;Gaisn tokens $ Uses 3 previous cards
 Domino;S2;X-Force;4;1;4;6;;;3;;Contrôle des Vilains et des sbires;Controls Villains et des sbires
-Doop;S2;SG S2;6;2;1;4;;;;2;Gain de jetons [wild] $ Échange de carte $  Placement [thug] [civilians];Gains tokens [wild], Échange de carte,  Placement [thug] [civilians]
+Doop;S2;SG S2;6;2;1;4;;;;2;Gain de jetons [wild] $ Échange de carte $  Placement [thug] [civilians];Gains tokens [wild] $ Exchanges cards $  Placement [thug] [civilians]
 Emma Frost;S2;SG S2;3;7;2;5;;;;;Résistance aux dégats $ Utilise les deux cartes précédentes;Resists to damages $ Uses two previous cards
 Fantomex;S2;SG S2;2;1;1;8;;;;;Contrôle des Vilains;Controls Villains
 Feral;S2;SG S2;7;3;4;3;;;4;;Résistance aux dégats;Resists to damages
 Firestar;S2;SG S2;9;2;3;3;;4;4;;;
-Forge;S2;Gold Team;3;6;3;5;;;;;Améliore actions [heroic] $ Pseudo téléportation;Bonus [heroic] $ Pseudo téléportation
+Forge;S2;Gold Team;3;6;3;5;;;;;Améliore actions [heroic] $ Pseudo téléportation;Bonus [heroic] $ Pseudo teleports
 Gambit;S2;Blue Team;8;3;4;3;;;6;2;;
 Guardian;S2;SG S2;4;6;5;3;;;2;2;Résistance aux dégats;Resists to damages
 Gwenpool;S2;SG S2;4;3;4;3;;;;;Utile contre [thug] et sbires $ Contrôle de l’Intrigue $ Dégâts à tous les autres;Useful against [thug] and henchmen $ Controls Storyline $ Damages to everything else
@@ -91,20 +91,20 @@ Havok;S2;SG S2;4;3;4;3;;;8;;Résistance aux dégats;Resists to damages
 Hope Summers;S2;Phoenix Five;5;3;6;3;;;;;Utile contre menaces $ Contrôle des Vilains;Useful against menaces $ Controls Villains
 Human Torch;S2;Fantastic Four;7;3;5;3;;;;;Gain de jetons $ Dégâts à tous les autres $ Bonus [attack] $ Synergie 4 fantastiques;Gains tokens $ Damages to everything else $ Bonus [attack] $ Synergy Fantastic 4
 Iceman;S2;Gold Team;5;5;5;3;;;;;Résistance aux dégats $ Lutte contre les [bam];Resists to damages $ Avoids [bam]
-Iceman (1st Class);S2;First Class;7;2;6;3;;;;;Empêche déplacement des Vilains $ Facilite le déplacement;Empêche déplacement des Vilains $ Improve movement
+Iceman (1st Class);S2;First Class;7;2;6;3;;;;;Empêche déplacement des Vilains $ Facilite le déplacement;Avoids Villain movement $ Improves movement
 Invisible Woman;S2;Fantastic Four;4;6;3;4;;;;2;Résiste aux Master Plan $ Synergie 4 fantastiques;Resists to Master Plan $ Synergy Fantastic 4
 Jean Grey;S2;Core Box S2;4;5;2;5;;2;2;;Contrôle de l’Intrigue;Controls Storyline
-Jubilee;S2;Blue Team;6;6;2;3;;;6;;Évite les [bam];Évite les [bam]
-Kitty Pryde;S2;SG S2;6;4;2;3;;1;7;;Résistance aux dégats, déplacement $ Lockheed;Resists to damages, déplacement $ Lockheed
-Lady Deadpool;S2;Deadpool;3;3;4;3;;;6;2;Utile pour [civilians], [thug] $ Regagne de la vie;Utile pour [civilians], [thug] $ Can heal
+Jubilee;S2;Blue Team;6;6;2;3;;;6;;Évite les [bam];Avoids [bam]
+Kitty Pryde;S2;SG S2;6;4;2;3;;1;7;;Résistance aux dégats $ Déplacement $ Lockheed;Resists to damages $ Improves movement $ Lockheed
+Lady Deadpool;S2;Deadpool;3;3;4;3;;;6;2;Utile pour [civilians], [thug] $ Regagne de la vie;Useful against [civilians], [thug] $ Can heal
 Legion;S2;SG S2;4;4;4;3;;;;;Effets très variés;Varied effects
 Logan;S2;Days of the Future Past;4;3;7;3;;;3;;Regagne de la vie $ Résistance aux dégâts;Can heal $ Resists to damages
 Longshot;S2;SG S2;6;3;3;5;;;;;Regagne de la vie $ Contrôle des Vilains;Can heal $ Controls Villains
 Magik;S2;SG S2;4;2;9;3;;;;;Téléportation $ Bonus [attack] $ Utile contre [crisis];Teleports $ Bonus [attack] $ Useful against [crisis]
 Magneto;S2;Core Box S2;3;1;6;4;;;6;;Bonus [wild];Bonus [wild]
-Marrow;S2;SG S2;6;3;4;3;;;4;;Renvoie dégâts $ Résistance aux dégâts;Renvoie dégâts $ Resists to damages
+Marrow;S2;SG S2;6;3;4;3;;;4;;Renvoie dégâts $ Résistance aux dégâts;Gives damages back $ Resists to damages
 Marvel Girl;S2;First Class;4;5;4;4;;;;;Bonus [heroic] ou [attack];Bonus [heroic] ou [attack]
-Mirage;S2;SG S2;2;5;4;5;;;2;;Résistance aux KO $ Replacement [threat],[thug], [civilians];Resists to KOs $ Replacement [threat],[thug], [civilians]
+Mirage;S2;SG S2;2;5;4;5;;;2;;Résistance aux KO $ Replacement [threat],[thug], [civilians];Resists to KOs $ Moves [threat],[thug], [civilians]
 Mister Fantastic;S2;Fantastic Four;3;7;3;5;;;;;Synergie 4 fantastiques $ Bonus [wild] ;Synergy Fantastic 4 $ Bonus [wild] 
 Multiple Man;S2;SG S2;9;4;4;4;;;;;Démultiplication $ Regagne de la vie;Demultiplies himself $ Can heal
 Mystique;S2;Core Box S2;5;1;7;3;;;;;Évite le placement de [thug] [civilians] $ Regagne de la vie;Avoids placement of [thug] [civilians] $ Can heal
